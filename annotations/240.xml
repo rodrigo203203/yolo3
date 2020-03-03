@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>240.png</filename>
+	<path>/Users/rodrigomoralesrivas/Downloads/echo/darkflow/images/240.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>569</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>40</ymin>
+			<xmax>339</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

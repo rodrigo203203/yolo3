@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>365.png</filename>
+	<path>/Users/rodrigomoralesrivas/Downloads/echo/darkflow/images/365.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>785</width>
+		<height>589</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>104</ymin>
+			<xmax>497</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>117</ymin>
+			<xmax>697</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>
