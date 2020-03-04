@@ -1,1 +1,5 @@
 *.weights
+build/
+darkflow/__pycache__/
+darkflow/cython_utils/
+darkflow.egg-info/
